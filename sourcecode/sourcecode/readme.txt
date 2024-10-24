@@ -1,3 +1,4 @@
+Please cite this: "Banerjee, Anasua, Vinay Kumar, Achyut Shankar, Rutvij H. Jhaveri, and Debajyoty Banik. "Automatic Resource Augmentation for Machine Translation in Low Resource Language: EnIndic Corpus." ACM Transactions on Asian and Low-Resource Language Information Processing (2023)."
 This algorithm can be used to generate parallel corpus from comparable corpus (Combination of various machine translation system's output)
 Requirement:
 MEMT should be installed. Follow: 
